@@ -327,7 +327,7 @@ To generate a valid token, it is necessary to register the user first (authoriza
     http://localhost:4567/products
   ```
 * **Notes:**
-    If the product name already exists, it updates it.
+    If the product name already exists, it creates a new one with the same name (name is not unique).
   
 
 **Get Products**
