@@ -6,6 +6,7 @@
 + [Requerimientos](#requerimientos)
 + [Uso](#uso)
 + [Desarrollo](#desarrollo)
++ [Documentación](#documentación)
 
 
 ## Descripción del proyecto
@@ -73,7 +74,7 @@ Luego para migrar hasta la última versión:
 docker compose exec webapp bundle exec rake db:migrate
 ```
 
-### Documentación
+## Documentación
 
 *NOTA: La aplicación fue desarrollada en inglés en su totalidad, por la costumbre de programar en ese idioma.*
 
